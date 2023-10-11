@@ -13,6 +13,7 @@
         $nombre = $_POST['nombre'];
         $pass = $_POST['pass'];
         $direct = $_POST['operativo']
+    ?>
 
 
 </body>    
