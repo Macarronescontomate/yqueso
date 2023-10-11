@@ -12,10 +12,12 @@
     <?php
         $nombre = $_POST['nombre'];
         $pass = $_POST['pass'];
-        $direct = $_POST['operativo'];
+        $operativo = $_POST['operativo'];
+        $terminos = $_POST['terminos'];
         echo $nombre;
         echo $pass;
         echo $operativo;
+        echo $terminos;
     ?>
 
 
